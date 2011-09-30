@@ -19,8 +19,6 @@ package network
             request.url = ADDRESS + controller + "/" + action;
             request.method = method;
 			
-			trace(method + ": " + request.url);
-
             if (param)
             {
                 if (method == URLRequestMethod.POST)
