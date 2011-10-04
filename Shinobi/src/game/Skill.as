@@ -1,6 +1,8 @@
 package game
 {
-    public class Skill
+	import screens.components.SkillSlot;
+	
+    public class Skill extends SkillSlot
     {
         public var name:String;
         public var description:String;
