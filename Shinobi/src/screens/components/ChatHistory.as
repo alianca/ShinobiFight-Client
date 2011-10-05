@@ -79,5 +79,4 @@ package screens.components
 			scroll_bar.scrollPosition = scroll_bar.maxScrollPosition;
 		}
 	}
-
 }

@@ -8,6 +8,7 @@ package screens
 	{
 		private var countdown_value:int = 12;
 		private var countdown_interval;
+		private var player:Player;
 		
 		public function GameScreen() 
 		{
@@ -47,7 +48,5 @@ package screens
 		{
 			countdown.visible = false;
 		}
-		
 	}
-
 }

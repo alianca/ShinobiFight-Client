@@ -1,4 +1,4 @@
-package screens.components 
+package screens.components
 {
 	import flash.display.MovieClip;
 	import flash.events.MouseEvent;
@@ -28,5 +28,4 @@ package screens.components
 			}
 		}
 	}
-
 }
